@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project was developed as a school assignment with the aim of practicing data retrieval from an open API with AJAX, processing the data with JavaScript, and then presenting the data attractively using HTML/CSS. The API used is the [Fun Translations API](https://funtranslations.com/api/), which offers a variety of fun translation languages such as Yoda, Pirate, Shakespeare, Elvish, and Morse code.
+This project was developed as a school assignment with the aim of practicing data retrieval from an open API with AJAX, processing the data with JavaScript, and then presenting the data attractively using HTML/CSS. The API used is the [Fun Translations API](https://funtranslations.com/api/), which offers a variety of fun translation languages such as Yoda, Pirate, Elvish and more.
 
 ## Features
 
